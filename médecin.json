@@ -7,7 +7,7 @@
          "ville":"Paris",
          "Spécialité":"médecin généraliste ",
          "tarif":"25 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-medecin-avatar-blanc_136162-58.jpg",
          "secteur":"Conventionné secteur 1"
       },
       {
@@ -17,7 +17,7 @@
          "ville":"Paris",
          "Spécialité":"Endocrinologue",
          "tarif":"70 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-femme-medecin-fond-blanc_24908-9142.jpg",
          "secteur":"Conventionné secteur 2"
       },
       {
@@ -27,7 +27,7 @@
          "ville":"Paris",
          "Spécialité":"Ophtalmologue",
          "tarif":"75 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-medecin-avatar-blanc_136162-58.jpg",
          "secteur":"Conventionné secteur 2"
       },
       {
@@ -37,7 +37,7 @@
          "ville":"Paris",
          "Spécialité":"Pédiatre",
          "tarif":"50 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-femme-medecin-fond-blanc_24908-9142.jpg",
          "secteur":"Conventionné secteur 1"
       },
       {
@@ -47,7 +47,7 @@
          "ville":"Lyon",
          "Spécialité":"médecin généraliste ",
          "tarif":"25 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-femme-medecin-fond-blanc_24908-9142.jpg",
          "secteur":"Conventionné secteur 1"
       },
       {
@@ -57,7 +57,7 @@
          "ville":"Lyon",
          "Spécialité":"Dentiste",
          "tarif":"23 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-femme-medecin-fond-blanc_24908-9142.jpg",
          "secteur":"Conventionné secteur 1"
       },
       {
@@ -67,7 +67,7 @@
          "ville":"Lyon",
          "Spécialité":"Cardiologue",
          "tarif":"100 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-medecin-avatar-blanc_136162-58.jpg",
          "secteur":"Conventionné secteur 2"
       },
       {
@@ -77,7 +77,7 @@
          "ville":"Lyon ",
          "Spécialité":"Acuponcteur",
          "tarif":"70 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-medecin-avatar-blanc_136162-58.jpg",
          "secteur":"Non conventionné"
       },
       {
@@ -87,7 +87,7 @@
          "ville":"Marseille",
          "Spécialité":"médecin généraliste ",
          "tarif":"25 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-medecin-avatar-blanc_136162-58.jpg",
          "secteur":"Conventionné secteur 1"
       },
       {
@@ -97,7 +97,7 @@
          "ville":"Marseille",
          "Spécialité":"Ostéopathe",
          "tarif":"70 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-femme-medecin-fond-blanc_24908-9142.jpg",
          "secteur":"Conventionné secteur 2"
       },
       {
@@ -107,7 +107,7 @@
          "ville":"Marseille",
          "Spécialité":"Dermatologue",
          "tarif":"80 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-femme-medecin-fond-blanc_24908-9142.jpg",
          "secteur":"Conventionné secteur 2"
       },
       {
@@ -117,7 +117,7 @@
          "ville":"Marseille",
          "Spécialité":"Chirurgien viscéral",
          "tarif":"80 €",
-         "url":"",
+         "url":"https://image.freepik.com/vecteurs-libre/icone-medecin-avatar-blanc_136162-58.jpg",
          "secteur":"Conventionné secteur 1"
       }
    ]
