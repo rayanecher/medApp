@@ -1,0 +1,124 @@
+{
+   "medecin":[
+      {
+         "nom":"Gendrule",
+         "prénom":"Guillaume",
+         "âge":"52 ans",
+         "ville":"Paris",
+         "Spécialité":"médecin généraliste ",
+         "tarif":"25 €",
+         "url":"",
+         "secteur":"Conventionné secteur 1"
+      },
+      {
+         "nom":"Massia",
+         "prénom":"Leya",
+         "âge":"32 ans",
+         "ville":"Paris",
+         "Spécialité":"Endocrinologue",
+         "tarif":"70 €",
+         "url":"",
+         "secteur":"Conventionné secteur 2"
+      },
+      {
+         "nom":"Many",
+         "prénom":"Marcus",
+         "âge":"33 ans",
+         "ville":"Paris",
+         "Spécialité":"Ophtalmologue",
+         "tarif":"75 €",
+         "url":"",
+         "secteur":"Conventionné secteur 2"
+      },
+      {
+         "nom":"Vassia",
+         "prénom":"Celia",
+         "âge":"47 ans",
+         "ville":"Paris",
+         "Spécialité":"Pédiatre",
+         "tarif":"50 €",
+         "url":"",
+         "secteur":"Conventionné secteur 1"
+      },
+      {
+         "nom":"Mey",
+         "prénom":"Lina",
+         "âge":"34 ans",
+         "ville":"Lyon",
+         "Spécialité":"médecin généraliste ",
+         "tarif":"25 €",
+         "url":"",
+         "secteur":"Conventionné secteur 1"
+      },
+      {
+         "nom":"Imanez",
+         "prénom":"Lisa",
+         "âge":"31ans",
+         "ville":"Lyon",
+         "Spécialité":"Dentiste",
+         "tarif":"23 €",
+         "url":"",
+         "secteur":"Conventionné secteur 1"
+      },
+      {
+         "nom":"James",
+         "prénom":"Leo",
+         "âge":"53 ans",
+         "ville":"Lyon",
+         "Spécialité":"Cardiologue",
+         "tarif":"100 €",
+         "url":"",
+         "secteur":"Conventionné secteur 2"
+      },
+      {
+         "nom":"Bisard",
+         "prénom":"Rudy",
+         "âge":"56 ans",
+         "ville":"Lyon ",
+         "Spécialité":"Acuponcteur",
+         "tarif":"70 €",
+         "url":"",
+         "secteur":"Non conventionné"
+      },
+      {
+         "nom":"Malo",
+         "prénom":"Jean-Pierre",
+         "âge":"58 ans",
+         "ville":"Marseille",
+         "Spécialité":"médecin généraliste ",
+         "tarif":"25 €",
+         "url":"",
+         "secteur":"Conventionné secteur 1"
+      },
+      {
+         "nom":"Burows",
+         "prénom":"Sara",
+         "âge":"32 ans",
+         "ville":"Marseille",
+         "Spécialité":"Ostéopathe",
+         "tarif":"70 €",
+         "url":"",
+         "secteur":"Conventionné secteur 2"
+      },
+      {
+         "nom":"Scratch",
+         "prénom":"Känza",
+         "âge":"34 ans",
+         "ville":"Marseille",
+         "Spécialité":"Dermatologue",
+         "tarif":"80 €",
+         "url":"",
+         "secteur":"Conventionné secteur 2"
+      },
+      {
+         "nom":"Isheur",
+         "prénom":"Rayane",
+         "âge":"36 ans",
+         "ville":"Marseille",
+         "Spécialité":"Chirurgien viscéral",
+         "tarif":"80 €",
+         "url":"",
+         "secteur":"Conventionné secteur 1"
+      }
+   ]
+}
